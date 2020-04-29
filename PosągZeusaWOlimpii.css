@@ -1,0 +1,51 @@
+body{
+	background-color:#690e00;
+}
+div.LOGO{
+	height:433px;
+	background-color:#8a463d;
+	text-align:center;
+}
+img.LOGO{
+	height:433px;
+	width:342px;
+}
+div.TYTUŁ{
+	background-color:#d6422d;
+	height:43px;
+	text-align:center;
+	font-size:35px;
+}
+div.MENU{
+	height:412px;
+}
+div.MENUPOPRAWEJ{
+	background-color:#bd402f;
+	height:412px;
+	width:20%;
+	float:left;
+}
+p.MENUPOPRAWEJ{
+	text-align:center;
+	font-size:18px;
+}
+div.MENUPOLEWEJ{
+	background-color:#e05f4c;
+	width:80%;
+	height:412px;
+	float:left;
+}
+p.MENUPOLEWEJ{
+	font-size:18px;
+	text-align:center;
+}
+p.MENUPOLEWEJ2{
+	text-align:right;
+	font-size:18px;
+	margin-right:50px;
+}
+div.STOPKA{
+	height:19px;
+	background-color:#a12818;
+	font-size:14px;
+}

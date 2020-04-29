@@ -1,0 +1,138 @@
+body{
+	background-color:#031d52;
+}
+input{
+	text-align:left;
+}
+div.LOGO1{
+	height:327px;
+	width:100%;
+}
+div.LOGOL{
+	float:left;
+	height:327px;
+	width:20%;
+	background-color:#1382c2;
+	text-align:center;
+}
+div.LOGOLOGO{
+	height:327px;
+	width:70%;
+	background-color:#1382c2;
+	float:left;
+	text-align:center;
+}
+div.PRZERWA{
+	height:327px;
+	background-color:#1382c2;
+	float:left;
+	width:15%;
+	
+}
+#lightgallery{
+	float:top;
+	height:200px;
+	width:70%;
+	background-color:#1382c2;
+	text-align:center;
+}
+div.LOGO{
+	width:70%;
+	background-color:#1382c2;
+	text-align:center;
+	float:bottom;
+	height:127px;
+}
+div.LOGOP{
+	background-color:#1382c2;
+	float:left;
+	height:327px;
+	width:10%;
+}
+h1{
+	font-size:40px;
+}
+div.PODLOGIEM{
+	height:43px;
+}
+div.INFORMACJE{
+	height:43px;
+	width:25%;
+	float:left;
+	background-color:#03a1fc;
+	border-bottom:dotted;
+	border-top:dotted;
+	text-align:center;
+	font-size:25px;
+}
+div.TYTUŁ{
+	background-color:#03a1fc;
+	height:43px;
+	text-align:center;
+	font-size:35px;
+	border-bottom:dotted;
+	border-top:dotted;
+	float:left;
+	width:50%;
+}
+div.WIĘCEJINFORMACJI{
+	height:43px;
+	width:25%;
+	float:left;
+	background-color:#03a1fc;
+	border-bottom:dotted;
+	border-top:dotted;
+	text-align:center;
+	font-size:25px;
+}
+div.MENU{
+	height:500px;
+}
+div.MENUPOLEWEJ{
+	background-color:#4676a3;
+	height:500px;
+	float:left;
+	width:28%;
+	text-align:center;
+}
+ol.MENUPOLEWEJ{
+	font-size:18px;
+}
+div.MENUNAŚRODKU{
+	background-color:#03e8fc;
+	height:500px;
+	width:44%;
+	float:left;
+	text-align:center;
+	font-family:serif;
+}
+table.MENUNAŚRODKU{
+	text-align:center;
+	font-size:16px;
+	border-style:dashed;
+	background-color:#6d67c9;
+	border-width:8px;
+	border-color:#360185;
+	height:500px;
+}
+div.MENUPOPRAWEJ{
+	float:left;
+	background-color:#4676a3;
+	height:500px;
+	width:28%;
+	text-align:center;
+}
+ul.MENUPOPRAWEJ{
+	font-size:18px;
+}
+div.STOPKA{
+	font-size:14px;
+	background-color:#1382c2;
+	height:19px;
+	border-style:dotted;
+}
+foto
+{width:100%;
+height:100%;
+margin-bottom:10px;
+}
