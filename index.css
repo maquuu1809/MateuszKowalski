@@ -48,6 +48,11 @@ div.LOGOP{
 	float:left;
 	height:327px;
 	width:10%;
+	text-align:right;
+}
+img.M{
+	width:76px;
+	height:80px;
 }
 h1{
 	font-size:40px;
