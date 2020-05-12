@@ -10,6 +10,11 @@ img.LOGO{
 	height:433px;
 	width:342px;
 }
+img.M{
+	width:76px;
+	height:80px;
+	float:right;
+}
 div.TYTUŁ{
 	background-color:#d6422d;
 	height:43px;
