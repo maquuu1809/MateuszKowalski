@@ -6,6 +6,11 @@ div.LOGO{
 	background-color:#877c08;
 	text-align:center;
 }
+img.M{
+	width:76px;
+	height:80px;
+	float:right;
+}
 img.LOGO{
 	height:205px;
 	width:340px;
